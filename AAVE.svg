@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <defs>
+        <linearGradient x1="87.0884943%" y1="21.4201672%" x2="19.2658216%" y2="85.5956607%" id="linearGradient-1">
+            <stop stop-color="#B252A1" offset="0%"></stop>
+            <stop stop-color="#26BEC9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DEFI-认购-LP认购" transform="translate(-751.000000, -282.000000)">
+            <g id="REP" transform="translate(751.000000, 282.000003)">
+                <g id="编组" transform="translate(0.000000, 0.000000)">
+                    <path d="M0,48.0000486 L0,48.0000559 C0,74.5097742 21.4903375,96.0001117 48.0000559,96.0001117 C74.5097742,96.0001117 96.0001117,74.5097742 96.0001117,48.0000559 L96.0001117,48.0000559 C96.0001117,21.4903375 74.5097742,0 48.0000559,0 C21.4903375,0 0,21.4903375 0,48.0000559 L0,48.0000486 Z" id="路径" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                    <g id="编组-63" transform="translate(31.200000, 28.800000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="5">
+                        <polyline id="路径-67" stroke-linejoin="round" points="0 38.159371 18.2544829 0 34.5484843 38.159371"></polyline>
+                        <line x1="0" y1="19.0796855" x2="17.2742421" y2="19.0796855" id="路径-68"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
