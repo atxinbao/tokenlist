@@ -54,7 +54,7 @@
           "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/COMP.svg"
       },
       {
-          "name": "CurveDAOToken",
+          "name": "Curve DAO Token",
           "chainId": 1,
           "symbol": "CRV",
           "decimals": 18,
@@ -70,7 +70,7 @@
           "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/DAI.svg"
       },
       {
-          "name": "MakerDAO",
+          "name": "Maker",
           "chainId": 1,
           "symbol": "MKR",
           "decimals": 18,
@@ -78,7 +78,7 @@
           "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/MKR.svg"
       },
       {
-          "name": "Synthetix",
+          "name": "Synthetix Network Token",
           "chainId": 1,
           "symbol": "SNX",
           "decimals": 18,
