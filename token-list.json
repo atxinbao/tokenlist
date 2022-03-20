@@ -43,7 +43,7 @@
           "symbol": "AAVE",
           "decimals": 18,
           "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-          "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/AAVE.svg"
       },
       {
           "name": "Compound",
@@ -59,7 +59,7 @@
           "symbol": "CRV",
           "decimals": 18,
           "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
-          "logoURI": "https://gemini.com/images/currencies/icons/default/crv.svg"
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/CRV.svg"
       },
       {
           "name": "Dai Stablecoin",
@@ -70,12 +70,12 @@
           "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/DAI.svg"
       },
       {
-          "name": "Maker",
+          "name": "MakerDAO",
           "chainId": 1,
           "symbol": "MKR",
           "decimals": 18,
           "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
-          "logoURI": "https://gemini.com/images/currencies/icons/default/mkr.svg"
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/MKR.svg"
       },
       {
           "name": "Synthetix",
@@ -83,7 +83,7 @@
           "symbol": "SNX",
           "decimals": 18,
           "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-          "logoURI": "https://gemini.com/images/currencies/icons/default/snx.svg"
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/SNX.svg"
       },
       {
           "name": "Uniswap",
@@ -91,7 +91,7 @@
           "symbol": "UNI",
           "decimals": 18,
           "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-          "logoURI": "https://gemini.com/images/currencies/icons/default/uni.svg"
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/UNI.svg"
       }
   ]
 }
