@@ -2,7 +2,7 @@
   "name": "UMIDAO Token List",
   "version": {
       "major": 0,
-      "minor": 2,
+      "minor": 1,
       "patch": 0
   },
   "keywords": [
@@ -10,7 +10,7 @@
       "WEB3",
       "DEFI"
   ],
-  "logoURI": "https://raw.githubusercontent.com/atxinbao/tokenlist/master/umidao.svg",
+  "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/UMI.svg",
   "timestamp": "2022-03-18T14:15:22+0000",
   "tokens": [
       {
@@ -19,7 +19,23 @@
           "symbol": "UMI",
           "decimals": 8,
           "address": "0xAAc62C7816bD274Dd1587540BdB5BEF84E096152",
-          "logoURI": "https://raw.githubusercontent.com/atxinbao/tokenlist/master/umidao.svg"
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/UMI.svg"
+      },
+      {
+          "name": "Tether USD",
+          "chainId": 1,
+          "symbol": "USDT",
+          "decimals": 6,
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/USDT.svg"
+      },
+      {
+          "name": "USD Coin",
+          "chainId": 1,
+          "symbol": "USDC",
+          "decimals": 6,
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/USDC.svg"
       },
       {
           "name": "AaveToken",
@@ -35,7 +51,7 @@
           "symbol": "COMP",
           "decimals": 18,
           "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-          "logoURI": "https://gemini.com/images/currencies/icons/default/comp.svg"
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/COMP.svg"
       },
       {
           "name": "CurveDAOToken",
@@ -46,12 +62,12 @@
           "logoURI": "https://gemini.com/images/currencies/icons/default/crv.svg"
       },
       {
-          "name": "DaiStablecoin",
+          "name": "Dai Stablecoin",
           "chainId": 1,
           "symbol": "DAI",
           "decimals": 18,
           "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-          "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg"
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/DAI.svg"
       },
       {
           "name": "Maker",
