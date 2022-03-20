@@ -1,0 +1,81 @@
+{
+  "name": "UMIDAO Token List",
+  "version": {
+      "major": 0,
+      "minor": 2,
+      "patch": 0
+  },
+  "keywords": [
+      "UMIDAO",
+      "WEB3",
+      "DEFI"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/atxinbao/umicash/master/umidao.svg",
+  "timestamp": "2022-03-18T14:15:22+0000",
+  "tokens": [
+      {
+          "name": "umiDAO",
+          "chainId": 1,
+          "symbol": "UMI",
+          "decimals": 8,
+          "address": "0xAAc62C7816bD274Dd1587540BdB5BEF84E096152",
+          "logoURI": "https://raw.githubusercontent.com/atxinbao/umicash/master/umidao.svg"
+      },
+      {
+          "name": "AaveToken",
+          "chainId": 1,
+          "symbol": "AAVE",
+          "decimals": 18,
+          "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+          "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
+      },
+      {
+          "name": "Compound",
+          "chainId": 1,
+          "symbol": "COMP",
+          "decimals": 18,
+          "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+          "logoURI": "https://gemini.com/images/currencies/icons/default/comp.svg"
+      },
+      {
+          "name": "CurveDAOToken",
+          "chainId": 1,
+          "symbol": "CRV",
+          "decimals": 18,
+          "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+          "logoURI": "https://gemini.com/images/currencies/icons/default/crv.svg"
+      },
+      {
+          "name": "DaiStablecoin",
+          "chainId": 1,
+          "symbol": "DAI",
+          "decimals": 18,
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg"
+      },
+      {
+          "name": "Maker",
+          "chainId": 1,
+          "symbol": "MKR",
+          "decimals": 18,
+          "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+          "logoURI": "https://gemini.com/images/currencies/icons/default/mkr.svg"
+      },
+      {
+          "name": "Synthetix",
+          "chainId": 1,
+          "symbol": "SNX",
+          "decimals": 18,
+          "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+          "logoURI": "https://gemini.com/images/currencies/icons/default/snx.svg"
+      },
+      {
+          "name": "Uniswap",
+          "chainId": 1,
+          "symbol": "UNI",
+          "decimals": 18,
+          "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+          "logoURI": "https://gemini.com/images/currencies/icons/default/uni.svg"
+      }
+  ]
+}
