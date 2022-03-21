@@ -2,7 +2,7 @@
   "name": "UMIDAO Token List",
   "version": {
       "major": 0,
-      "minor": 1,
+      "minor": 2,
       "patch": 0
   },
   "keywords": [
@@ -22,6 +22,22 @@
           "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/UMI.svg"
       },
       {
+          "name": "Wrapped BTC",
+          "chainId": 1,
+          "symbol": "WBTC",
+          "decimals": 8,
+          "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/WBTC.svg"
+      },  
+      {
+          "name": "Dai Stablecoin",
+          "chainId": 1,
+          "symbol": "DAI",
+          "decimals": 18,
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/DAI.svg"
+      },
+      {
           "name": "Tether USD",
           "chainId": 1,
           "symbol": "USDT",
@@ -30,12 +46,52 @@
           "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/USDT.svg"
       },
       {
+          "name": "Binance USD",
+          "chainId": 1,
+          "symbol": "BUSD",
+          "decimals": 18,
+          "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/BUSD.svg"
+      }, 
+      {
           "name": "USD Coin",
           "chainId": 1,
           "symbol": "USDC",
           "decimals": 6,
           "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
           "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/USDC.svg"
+      },
+      {
+          "name": "Maker",
+          "chainId": 1,
+          "symbol": "MKR",
+          "decimals": 18,
+          "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/MKR.svg"
+      },
+      {
+          "name": "Uniswap",
+          "chainId": 1,
+          "symbol": "UNI",
+          "decimals": 18,
+          "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/UNI.svg"
+      },
+      {
+          "name": "ChainLink Token",
+          "chainId": 1,
+          "symbol": "LINK",
+          "decimals": 18,
+          "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/LINK.svg"
+      },
+      {
+          "name": "Matic Token",
+          "chainId": 1,
+          "symbol": "MATIC",
+          "decimals": 18,
+          "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/MATIC.svg"
       },
       {
           "name": "AaveToken",
@@ -62,22 +118,6 @@
           "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/CRV.svg"
       },
       {
-          "name": "Dai Stablecoin",
-          "chainId": 1,
-          "symbol": "DAI",
-          "decimals": 18,
-          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/DAI.svg"
-      },
-      {
-          "name": "Maker",
-          "chainId": 1,
-          "symbol": "MKR",
-          "decimals": 18,
-          "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
-          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/MKR.svg"
-      },
-      {
           "name": "Synthetix Network Token",
           "chainId": 1,
           "symbol": "SNX",
@@ -86,12 +126,20 @@
           "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/SNX.svg"
       },
       {
-          "name": "Uniswap",
+          "name": "Wrapped NXM",
           "chainId": 1,
-          "symbol": "UNI",
+          "symbol": "wNXM",
           "decimals": 18,
-          "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/UNI.svg"
+          "address": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/WNXM.svg"
+      },
+      {
+          "name": "Aragon Network Token",
+          "chainId": 1,
+          "symbol": "ANT",
+          "decimals": 18,
+          "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/ANT.svg"
       }
   ]
 }
