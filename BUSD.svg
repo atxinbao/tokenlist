@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 2</title>
+    <defs>
+        <linearGradient x1="15.4256317%" y1="17.1798598%" x2="84.4305264%" y2="86.6238409%" id="linearGradient-1">
+            <stop stop-color="#FAE02B" offset="0%"></stop>
+            <stop stop-color="#F2BE13" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DEFI-认购-LP认购备份" transform="translate(-1035.000000, -163.000000)">
+            <g id="编组-2" transform="translate(1035.000000, 163.000003)">
+                <circle id="椭圆形" fill="url(#linearGradient-1)" cx="48" cy="48" r="48"></circle>
+                <g id="编组" transform="translate(49.000000, 47.749997) rotate(-45.000000) translate(-49.000000, -47.749997) translate(24.000000, 23.999997)" fill="#FFFFFF">
+                    <rect id="矩形" x="17.5" y="0" width="32.5" height="12.5"></rect>
+                    <rect id="矩形备份-2" x="0" y="17.5" width="50" height="12.5"></rect>
+                    <rect id="矩形备份-3" x="0" y="35" width="50" height="12.5"></rect>
+                    <rect id="矩形备份" x="0" y="0" width="12.5" height="12.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
