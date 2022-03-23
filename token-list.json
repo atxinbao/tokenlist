@@ -10,7 +10,7 @@
       "WEB3",
       "DEFI"
   ],
-  "logoURI": "https://cdn.umi.cash/UMI.svg",
+  "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/UMI.svg",
   "timestamp": "2022-03-18T14:15:22+0000",
   "tokens": [
       {
@@ -19,7 +19,7 @@
           "symbol": "UMI",
           "decimals": 8,
           "address": "0xAAc62C7816bD274Dd1587540BdB5BEF84E096152",
-          "logoURI": "https://cdn.umi.cash/UMI.svg"
+          "logoURI": "https://raw.githubusercontent.com/umidao/tokenlist/master/UMI.svg"
       },
       {
           "name": "Wrapped BTC",
