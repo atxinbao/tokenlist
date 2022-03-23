@@ -1,0 +1,161 @@
+{
+  "name": "umiDAO WEB3 List",
+  "version": {
+      "major": 0,
+      "minor": 2,
+      "patch": 0
+  },
+  "keywords": [
+      "UMIDAO",
+      "WEB3",
+      "DEFI"
+  ],
+  "logoURI": "https://cdn.umi.cash/UMI.svg",
+  "timestamp": "2022-03-18T14:15:22+0000",
+  "tokens": [
+      {
+          "name": "umiDAO",
+          "chainId": 1,
+          "symbol": "UMI",
+          "decimals": 8,
+          "address": "0xAAc62C7816bD274Dd1587540BdB5BEF84E096152",
+          "logoURI": "https://cdn.umi.cash/UMI.svg"
+      },
+      {
+          "name": "Wrapped BTC",
+          "chainId": 1,
+          "symbol": "WBTC",
+          "decimals": 8,
+          "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+          "logoURI": "https://cdn.umi.cash/WBTC.svg"
+      },  
+      {
+          "name": "Dai Stablecoin",
+          "chainId": 1,
+          "symbol": "DAI",
+          "decimals": 18,
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "logoURI": "https://cdn.umi.cash/DAI.svg"
+      },
+      {
+          "name": "Tether USD",
+          "chainId": 1,
+          "symbol": "USDT",
+          "decimals": 6,
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "logoURI": "https://cdn.umi.cash/USDT.svg"
+      },
+      {
+          "name": "Binance USD",
+          "chainId": 1,
+          "symbol": "BUSD",
+          "decimals": 18,
+          "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+          "logoURI": "https://cdn.umi.cash/BUSD.svg"
+      }, 
+      {
+          "name": "USD Coin",
+          "chainId": 1,
+          "symbol": "USDC",
+          "decimals": 6,
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "logoURI": "https://cdn.umi.cash/USDC.svg"
+      },
+      {
+          "name": "Maker",
+          "chainId": 1,
+          "symbol": "MKR",
+          "decimals": 18,
+          "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+          "logoURI": "https://cdn.umi.cash/MKR.svg"
+      },
+      {
+          "name": "Uniswap",
+          "chainId": 1,
+          "symbol": "UNI",
+          "decimals": 18,
+          "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+          "logoURI": "https://cdn.umi.cash/UNI.svg"
+      },
+      {
+          "name": "SushiToken",
+          "chainId": 1,
+          "symbol": "SUSHI",
+          "decimals": 18,
+          "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+          "logoURI": "https://cdn.umi.cash/SUSHI.svg"
+      },
+      {
+          "name": "Ethereum Name Service",
+          "chainId": 1,
+          "symbol": "ENS",
+          "decimals": 18,
+          "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+          "logoURI": "https://cdn.umi.cash/ENS.svg"
+      },    
+      {
+          "name": "ChainLink Token",
+          "chainId": 1,
+          "symbol": "LINK",
+          "decimals": 18,
+          "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+          "logoURI": "https://cdn.umi.cash/LINK.svg"
+      },
+      {
+          "name": "Matic Token",
+          "chainId": 1,
+          "symbol": "MATIC",
+          "decimals": 18,
+          "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+          "logoURI": "https://cdn.umi.cash/MATIC.svg"
+      },
+      {
+          "name": "AaveToken",
+          "chainId": 1,
+          "symbol": "AAVE",
+          "decimals": 18,
+          "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+          "logoURI": "https://cdn.umi.cash/AAVE.svg"
+      },
+      {
+          "name": "Compound",
+          "chainId": 1,
+          "symbol": "COMP",
+          "decimals": 18,
+          "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+          "logoURI": "https://cdn.umi.cash/COMP.svg"
+      },
+      {
+          "name": "Curve DAO Token",
+          "chainId": 1,
+          "symbol": "CRV",
+          "decimals": 18,
+          "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+          "logoURI": "https://cdn.umi.cash/CRV.svg"
+      },
+      {
+          "name": "Synthetix Network Token",
+          "chainId": 1,
+          "symbol": "SNX",
+          "decimals": 18,
+          "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+          "logoURI": "https://cdn.umi.cash/SNX.svg"
+      },
+      {
+          "name": "Wrapped NXM",
+          "chainId": 1,
+          "symbol": "wNXM",
+          "decimals": 18,
+          "address": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
+          "logoURI": "https://cdn.umi.cash/WNXM.svg"
+      },
+      {
+          "name": "Aragon Network Token",
+          "chainId": 1,
+          "symbol": "ANT",
+          "decimals": 18,
+          "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+          "logoURI": "https://cdn.umi.cash/ANT.svg"
+      }
+  ]
+}
